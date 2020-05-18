@@ -1,6 +1,6 @@
 <HTML>
 <HEAD>
-	<TITLE>My JBossAS7 JSP snoop page</TITLE>
+	<TITLE>NK JBossAS7 JSP snoop page</TITLE>
 	<%@ page import="javax.servlet.http.HttpUtils,java.util.Enumeration" %>
 	<%@ page import="java.lang.management.*" %>
 	<%@ page import="java.util.*" %>
